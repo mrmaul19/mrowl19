@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Fullstack Developer**
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **Devoops**
 
 - 💬 Ask me about **react, next, nodejs, flutter**
 
