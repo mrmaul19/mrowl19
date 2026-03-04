@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, next, nodejs, flutter**
 
-- ⚡ i am have experience +- 4 years**
+- ⚡ i am have experience more than 5 years**
 
 <p align="left">
 </p>
